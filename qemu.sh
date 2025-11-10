@@ -1,0 +1,1 @@
+qemu-system-x86_64 -nographic -serial mon:stdio -hda ./boot.bin
